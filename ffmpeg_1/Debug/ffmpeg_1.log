@@ -1,0 +1,38 @@
+﻿  ffmpeg.cpp
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(42,16): warning C4018:  “<”: 有符号/无符号不匹配
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(148,16): warning C4018:  “<”: 有符号/无符号不匹配
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(220,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  参见“sprintf”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(222,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(241,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  参见“sprintf”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(245,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  参见“sprintf”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(257,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  参见“sprintf”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(269,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  参见“sprintf”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(297,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  参见“sprintf”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(317,1): warning C4996:  'av_dup_packet': 被声明为已否决
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_win32_2.8.1\include\libavcodec\avcodec.h(3949): message :  参见“av_dup_packet”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(320,1): warning C4996:  'av_free_packet': 被声明为已否决
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_win32_2.8.1\include\libavcodec\avcodec.h(3972): message :  参见“av_free_packet”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(353,1): warning C4996:  'av_free_packet': 被声明为已否决
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_win32_2.8.1\include\libavcodec\avcodec.h(3972): message :  参见“av_free_packet”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(366,1): warning C4996:  'av_free_packet': 被声明为已否决
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_win32_2.8.1\include\libavcodec\avcodec.h(3972): message :  参见“av_free_packet”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(419,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  参见“sprintf”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(423,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  参见“sprintf”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(448,1): warning C4996:  'av_free_packet': 被声明为已否决
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_win32_2.8.1\include\libavcodec\avcodec.h(3972): message :  参见“av_free_packet”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(452,1): warning C4996:  'av_free_packet': 被声明为已否决
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_win32_2.8.1\include\libavcodec\avcodec.h(3972): message :  参见“av_free_packet”的声明
+E:\share\tianye-demo\ffmpeg_mp4tots\ffmpeg_1\ffmpeg.cpp(475,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  正在生成代码...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  参见“sprintf”的声明
+  ffmpeg_1.vcxproj -> E:\share\tianye-demo\ffmpeg_mp4tots\Debug\ffmpeg_1.exe
